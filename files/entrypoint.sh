@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-WSPATH=${WSPATH:-'2b7d6fae-1a38-4e76-a314-233e23da564f'}
-UUID=${UUID:-'2b7d6fae-1a38-4e76-a314-233e23da564f'}
+WSPATH=${WSPATH:-'00775ee3-9b13-4992-80c0-d1d203620b9c'}
+UUID=${UUID:-'00775ee3-9b13-4992-80c0-d1d203620b9c'}
 WEB_USERNAME=${WEB_USERNAME:-'admin'}
 WEB_PASSWORD=${WEB_PASSWORD:-'password'}
 
